@@ -1,5 +1,6 @@
-High-Level Description of Systems is conceived to help conventional programmers to design hardware not at its best efficiency fairly well. Using Vivado HLS, C code is transformed into VHD code, to later analyze and improve its througput and latency with various techniques such as pipelining.
+# High-Level Description of Systems 
 
-The main project consists on translating a Matlab image recognition code into hardware and compare the results (both time and precision).
+HLS is conceived to help conventional programmers to design hardware, not at its best efficiency but fairly well. Using Vitis HLS (before Vivado HLS), C code is transformed into VHDL, to later verify the correct execution and improve its performance (througput and latency) through benchmarking techniques like pipelining.
 
-Later, a second part of the project consists on replicating this algorithm in SystemC for a system-level design approach.
+1. The main project consists on translating a MATLAB image recognition algorithm into hardware.
+2. An extra project consists on the Electronic System-Level (ESL) replication in # SystemC of this algorithm.
