@@ -3,7 +3,7 @@
 The final project consists on replicating the Simon game: **the board generates a certain sequence with LEDs that the user then replicates with the correspondant buttons**. 
 <img width="1217" height="684" alt="Captura de pantalla 2025-12-03 010344" src="https://github.com/user-attachments/assets/594ac505-7d7d-4941-8c38-f8d2fdb351b4" /> 
 
-The game controller **State Machine’s diagram** is the following:
+The game controller **State Machine’s diagram** is the following: <br/>
 
 <img width="1220" height="686" alt="Captura de pantalla 2025-12-03 010326" src="https://github.com/user-attachments/assets/1f672036-21c3-421b-a528-5a0b61371347" />
 
@@ -13,7 +13,6 @@ The project has been divided in 4 files (each of which is detailed in the report
 - the Display. 
 
 ## Coursework
-
 This course divided in two parts: 
 
 1. VHDL design of the hardware components learned during the Bachelor's theory of digital circuits.
