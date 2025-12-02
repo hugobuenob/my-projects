@@ -1,5 +1,8 @@
 # Master's Degree in Design of Embedded Systems 
-(AKA Microelectronics AKA Computing Engineering AKA Digital Design)
+> [!Note]
+> - AKA **Microelectronics**
+> - AKA **Computing Engineering**
+> - AKA **Digital Design**
 
 Each of the above folders contains the labs and the final project of a subject. The names are as follows:
 
