@@ -1,4 +1,5 @@
 # gem5: Memory Architecture
+gem5 is a widely used simulator for computer architecture research to evaluate the impact of the memory hierarchy in the performance of single-core processor systems.
 
 ### Block diagram of the system
 <img width="439" height="194" alt="Captura de pantalla 2025-12-03 023245" src="https://github.com/user-attachments/assets/ca3c7fe8-406c-42db-a3c9-f1f7963a75ab" />
