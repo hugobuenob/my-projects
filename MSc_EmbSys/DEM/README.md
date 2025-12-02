@@ -1,5 +1,11 @@
-Digital Electronics and Microprocessors is a course divided in two parts: the first part consists on applying the learnt theory of digital circuits to design such hardware components in VHDL; the second part is about dealing with microprocessors.
+# Digital Electronics & Microprocessors
 
-For the hardware design chapters, VHDL is learnt from scratch, carrying out several experiments in Vivado using a Xilinx Zynq-7020 device integrated into a Digilent Pynq-Z1 prototyping board. 
-The final project consists on creating a Simon game (the board generates a certain sequence which the user then replicates).
+This course divided in two parts: 
+
+1. VHDL design of the hardware components learned during the Bachelor's theory of digital circuits.
+All the lab work is designed in Vivado and implemented using a Xilinx Zynq-7020 device integrated into a Digilent Pynq-Z1 prototyping board.
+
+2. Full integration of Microprocessors: blocking, polling and interrupts. All the labwork is implemented in Arduino.
+
+The final project consists on creating a Simon game: the board generates a certain sequence with LEDs that the user then replicates with the correspondant buttons.
 
