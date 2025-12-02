@@ -29,6 +29,7 @@ The classification system comprises two primary modules:
 >- **C_code**: the adapted source code to be introduced into Vitis HLS.
 >- **Vitis_HLS**: these files already into
 >- **SystemC**: the system-level design simulation files.
+>- **lab5**: basic SystemC modules like a Counter, a Multiplexer and a Finite State Machine.
 
 ### Image Data Set
 The project utilizes the [Outex color texture set](http://lagis-vi.univ-lille1.fr/datasets/outex.html), containing 4,320 128x128 grayscale images across 24 texture categories. The dataset includes variations in illumination, spatial resolution, and camera rotation.
