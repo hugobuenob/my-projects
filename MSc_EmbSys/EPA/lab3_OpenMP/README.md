@@ -1,7 +1,5 @@
-# OpenMP
-
-OpenMP also optimizes matrix operations through parallelization, but it is more concise than Pthread. <br/>
-The number of parallel regions can be controlled through instructions, thereby reducing the running time and achieving a more suitable use.
+# Open Multi-Processing (OpenMP)
+OpenMP is one of the most extended compiler extensions to **work on the shared-memory programming model** for shared memory systems. It also **optimizes matrix operations through parallelization**, but it is **more concise than Pthread**. The number of parallel regions can be **controlled through instructions**, thereby reducing the running time and achieving a more suitable use.
 
 This graph is given per # of threads and per size of matrix.
 <img width="509" height="282" alt="Captura de pantalla 2025-12-03 024609" src="https://github.com/user-attachments/assets/2969bfae-f93b-4be7-b7fa-450374d01042" />
