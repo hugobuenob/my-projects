@@ -4,7 +4,7 @@ HLS is conceived to help conventional programmers to design hardware, not at its
 
 1. **Hardware Implementation (C-Based)**：The final project consists on translating a MATLAB image texture classification algorithm into hardware.
 
-<img width="364" height="299" alt="Captura de pantalla 2025-12-03 003430" src="https://github.com/user-attachments/assets/6f648901-0c54-46ab-a9d1-00f1a8024b82" /> 
+<img width="364" height="299" alt="Captura de pantalla 2025-12-03 003430" src="https://github.com/user-attachments/assets/6f648901-0c54-46ab-a9d1-00f1a8024b82" /> <br/>
 
 2. **[SystemC](https://systemc.org/) Simulation**：An extra project consists on the Electronic System-Level (ESL) replication in SystemC of this algorithm.
    
@@ -38,8 +38,8 @@ The classification system comprises two primary modules:
 >- **benchmarks_VitisHLS**: benchmark results for every block under several pipelining configurations.
 >
 >  You can also find the final project report and the Pareto diagrams.
-
-<img width="369" height="226" alt="Captura de pantalla 2025-12-03 003407" src="https://github.com/user-attachments/assets/14b4376c-ee27-4398-84d2-b2abbce642fe" />
+>
+> <img width="369" height="226" alt="Captura de pantalla 2025-12-03 003407" src="https://github.com/user-attachments/assets/14b4376c-ee27-4398-84d2-b2abbce642fe" />
 
 ### Image Data Set
 The project utilizes the [Outex color texture set](http://lagis-vi.univ-lille1.fr/datasets/outex.html), containing 4,320 128x128 grayscale images across 24 texture categories. The dataset includes variations in illumination, spatial resolution, and camera rotation.
