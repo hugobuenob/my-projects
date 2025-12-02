@@ -1,7 +1,7 @@
 # Design of Embedded Systems
 ## Final Project
 ### Introduction
-The final project aims to design a **hardware accelerator** that displays a **teapot STL figure** in a VGA monitor. This project is implemented in a **Pynq board with a Zynq 7020 System On Chip (SoC)**. This has two main components, the Processing System, with two ARM cores and **the programmable logic, the FPGA fabric**.
+The final project aims to design a **hardware accelerator** that displays an **[STL](https://en.wikipedia.org/wiki/File:Utah_teapot_(solid).stl) format [teapot](https://en.wikipedia.org/wiki/STL_(file_format)) figure** in a VGA monitor. This project is implemented in a **Pynq board with a Zynq 7020 System On Chip (SoC)**. This has two main components, the Processing System, with two ARM cores and **the programmable logic, the FPGA fabric**.
 
 <img width="842" height="352" alt="Captura de pantalla 2025-12-03 005331" src="https://github.com/user-attachments/assets/b6c4366d-8ff0-412a-a107-a48a464a55b4" /> <br/>
 
