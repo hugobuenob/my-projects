@@ -1,0 +1,27 @@
+# Global default: auto-detect text/binary and normalize line endings
+* text=auto
+
+# Python
+*.py text eol=lf
+*.pyc binary  # Ignore compiled Python files
+
+# C
+*.c text eol=lf
+*.h text eol=lf
+*.o binary    # Ignore object files
+
+# VHDL
+*.vhd text eol=lf
+*.vhdl text eol=lf
+*.vho binary  # Ignore generated VHDL output
+
+# C++
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.cc text eol=lf
+*.cxx text eol=lf
+*.obj binary  # Ignore C++ object files
+
+# Enforce language detection for edge cases
+*.vhdl linguist-language=VHDL
+*.cxx linguist-language=C++
